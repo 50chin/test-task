@@ -1,3 +1,3 @@
-<u>**SlonIT**</u>
+# SlonIT
 
-[Шаблон Git](./GIT.md)
+[Шпаргалка Git](./GIT.md)
